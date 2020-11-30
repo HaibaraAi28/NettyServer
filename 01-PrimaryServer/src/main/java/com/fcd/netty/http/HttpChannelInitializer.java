@@ -1,6 +1,5 @@
-package com.fcd.netty.channel;
+package com.fcd.netty.http;
 
-import com.fcd.netty.handler.HttpServerHandler;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;

@@ -1,6 +1,5 @@
-package com.fcd.netty.server;
+package com.fcd.netty.http;
 
-import com.fcd.netty.channel.HttpChannelInitializer;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.EventLoopGroup;

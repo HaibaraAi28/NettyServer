@@ -1,4 +1,4 @@
-package com.fcd.netty.handler;
+package com.fcd.netty.http;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
