@@ -22,7 +22,6 @@
             </plugin>
         </plugins>
     </build>
-
     <dependencies>
         <dependency>
             <groupId>io.netty</groupId>
@@ -36,4 +35,5 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
 </project>

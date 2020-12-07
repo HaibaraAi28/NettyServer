@@ -6,13 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="03-Unpacking" />
         <module name="02-socket" />
-        <module name="03-PackingAndUnpacking" />
         <module name="01-PrimaryServer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="03-Unpacking" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
