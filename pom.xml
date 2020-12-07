@@ -11,6 +11,7 @@
     <modules>
         <module>01-PrimaryServer</module>
         <module>02-socket</module>
+        <module>03-PackingAndUnpacking</module>
     </modules>
 
 </project>
